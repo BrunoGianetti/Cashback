@@ -34,4 +34,4 @@ Customers ride with me and collect receipts. I calculate all those values receip
 
 ## Watch video instructions on my Linked In account
 
->>> https://www.linkedin.com/posts/bruno-gianetti-32813aa3_boraproprimeiromundo-boratrabalhar-boraviver-activity-6579012453009502208-MZlm (video in Portuguese-BR).
+Click on this link to access video: https://www.linkedin.com/posts/bruno-gianetti-32813aa3_boraproprimeiromundo-boratrabalhar-boraviver-activity-6579012453009502208-MZlm (video in Portuguese-BR).
