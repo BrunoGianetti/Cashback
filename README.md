@@ -31,3 +31,7 @@ Customers ride with me and collect receipts. I calculate all those values receip
 ## See the screenshot 4 - Instructions
 
 <img width="300" alt="rename screenshot" src="https://github.com/BrunoGianetti/Cashback/blob/master/Screenshot_20190921-185033.png">
+
+## Watch video instructions on my Linked In account
+
+>>> https://www.linkedin.com/posts/bruno-gianetti-32813aa3_boraproprimeiromundo-boratrabalhar-boraviver-activity-6579012453009502208-MZlm (video in Portuguese-BR).
